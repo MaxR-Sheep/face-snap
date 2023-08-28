@@ -35,6 +35,7 @@ export class AppComponent implements OnInit {
         'https://pixabay.com/get/gb179f6a146e8762ecda888105ba26880608fcca72bc5e08b2837c073b3cb390b2e10386c01327351bc805cfd8238f0a8bacbbf2d8f3d3d228bfdc23857f18654_1280.jpg',
       createdDate: new Date(),
       snaps: 0,
+      location: 'Lyon',
     };
   }
 }
