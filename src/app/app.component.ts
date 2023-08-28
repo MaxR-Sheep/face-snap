@@ -18,7 +18,7 @@ export class AppComponent implements OnInit {
         imgUrl:
           'https://cdn.pixabay.com/photo/2023/05/19/13/28/bird-8004544_1280.jpg',
         createdDate: new Date(),
-        snaps: 0,
+        snaps: 50,
       },
       {
         title: 'Star Wars',
